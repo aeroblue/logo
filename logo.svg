@@ -44,15 +44,26 @@
          stdDeviation="5.3624739"
          id="feGaussianBlur1674" />
     </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1065">
+      <rect
+         style="opacity:0.6;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="rect1067"
+         width="66.817383"
+         height="60.536537"
+         x="45.548916"
+         y="108.88711" />
+    </clipPath>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1696"
-       id="linearGradient1698"
+       id="linearGradient1109"
+       gradientUnits="userSpaceOnUse"
        x1="76.973625"
        y1="122.20573"
        x2="73.900017"
-       y2="158.01985"
-       gradientUnits="userSpaceOnUse" />
+       y2="158.01985" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -61,9 +72,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="202.84866"
-     inkscape:cy="94.285889"
+     inkscape:zoom="1.4"
+     inkscape:cx="-296.6833"
+     inkscape:cy="160.59628"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -86,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,101 +107,121 @@
      id="layer1"
      transform="translate(-45.548916,-108.88711)">
     <g
-       transform="matrix(1,0,0,0.16605187,-84.477679,111.4821)"
-       id="g1650"
-       style="opacity:0.28699999;fill:#0064a7;fill-opacity:1;filter:url(#filter1672)">
-      <path
-         style="fill:#0064a7;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 146.69754,250.81076 3.0736,17.37252 43.03039,-36.21503"
-         id="path1642"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#0064a7;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 134.06905,248.07123 12.62849,2.73952 46.10399,-18.8425 z"
-         id="path1644"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#0064a7;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 152.24338,255.02024 -2.47224,13.16303 43.03039,-36.21502"
-         id="path1646"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#0064a7;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 192.80153,231.96825 -26.05878,35.48003 -14.49937,-12.42804 z"
-         id="path1648"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="g866">
-      <rect
-         y="108.88711"
-         x="45.548916"
-         height="60.536545"
-         width="66.817383"
-         id="rect947"
+       id="g1134"
+       inkscape:export-filename="/home/gatherer/Downloads/logo_round.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <circle
+         r="44.979168"
+         cy="136.16176"
+         cx="-65.198097"
+         id="path1111"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332" />
       <g
-         inkscape:export-ydpi="95"
-         inkscape:export-xdpi="95"
+         transform="translate(-144.1557,-2.993618)"
+         id="g1107"
+         clip-path="url(#clipPath1065)"
          inkscape:export-filename="/home/gatherer/Downloads/logo.png"
-         id="g945">
+         inkscape:export-xdpi="200.14027"
+         inkscape:export-ydpi="200.14027">
         <g
-           id="g877">
-          <path
-             style="fill:url(#linearGradient1698);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m 62.219857,131.55927 3.0736,17.37252 43.030393,-36.21502"
-             id="path1008"
-             inkscape:connector-curvature="0" />
-          <path
-             style="fill:#38a4ec;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m 49.591367,128.81975 12.62849,2.73952 46.103993,-18.8425 z"
-             id="path1010"
-             inkscape:connector-curvature="0" />
-          <path
-             style="fill:#0064a7;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="m 67.765697,135.76876 -2.47224,13.16303 43.030393,-36.21502"
-             id="path1012"
-             inkscape:connector-curvature="0" />
-          <path
-             style="fill:#60bfff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             d="M 108.32385,112.71677 82.265067,148.19679 67.765697,135.76876 Z"
-             id="path1014"
-             inkscape:connector-curvature="0" />
+           id="g1093">
+          <rect
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             id="rect1069"
+             width="66.817383"
+             height="60.536545"
+             x="45.548916"
+             y="108.88711" />
+          <g
+             id="g1091"
+             inkscape:export-filename="/home/gatherer/Downloads/logo.png"
+             inkscape:export-xdpi="95"
+             inkscape:export-ydpi="95">
+            <g
+               id="g1079">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1071"
+                 d="m 62.219857,131.55927 3.0736,17.37252 43.030393,-36.21502"
+                 style="fill:url(#linearGradient1109);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1073"
+                 d="m 49.591367,128.81975 12.62849,2.73952 46.103993,-18.8425 z"
+                 style="fill:#38a4ec;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1075"
+                 d="m 67.765697,135.76876 -2.47224,13.16303 43.030393,-36.21502"
+                 style="fill:#0064a7;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1077"
+                 d="M 108.32385,112.71677 82.265067,148.19679 67.765697,135.76876 Z"
+                 style="fill:#60bfff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+            </g>
+            <g
+               transform="translate(1.3496361,-2.0045214)"
+               id="g1089">
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                 x="51.292118"
+                 y="167.44865"
+                 id="text1083"><tspan
+                   sodipodi:role="line"
+                   id="tspan1081"
+                   x="51.292118"
+                   y="167.44865"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#333333;stroke-width:0.26458332">aero</tspan></text>
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#058ac2;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                 x="78.033936"
+                 y="167.44865"
+                 id="text1087"><tspan
+                   sodipodi:role="line"
+                   id="tspan1085"
+                   x="78.033936"
+                   y="167.44865"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#058ac2;fill-opacity:1;stroke-width:0.26458332">blue</tspan></text>
+            </g>
+          </g>
         </g>
         <g
-           id="g1607"
-           transform="translate(1.3496361,-2.0045214)">
-          <text
-             id="text1363"
-             y="167.44865"
-             x="51.292118"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#333333;stroke-width:0.26458332"
-               y="167.44865"
-               x="51.292118"
-               id="tspan1361"
-               sodipodi:role="line">aero</tspan></text>
-          <text
-             id="text1367"
-             y="167.44865"
-             x="78.033936"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#058ac2;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#058ac2;fill-opacity:1;stroke-width:0.26458332"
-               y="167.44865"
-               x="78.033936"
-               id="tspan1365"
-               sodipodi:role="line">blue</tspan></text>
+           style="opacity:0.28699999;fill:#0064a7;fill-opacity:1;filter:url(#filter1672)"
+           id="g1103"
+           transform="matrix(1,0,0,0.16605187,-84.477679,111.4821)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1095"
+             d="m 146.69754,250.81076 3.0736,17.37252 43.03039,-36.21503"
+             style="fill:#0064a7;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1097"
+             d="m 134.06905,248.07123 12.62849,2.73952 46.10399,-18.8425 z"
+             style="fill:#0064a7;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1099"
+             d="m 152.24338,255.02024 -2.47224,13.16303 43.03039,-36.21502"
+             style="fill:#0064a7;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1101"
+             d="m 192.80153,231.96825 -26.05878,35.48003 -14.49937,-12.42804 z"
+             style="fill:#0064a7;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
         </g>
+        <ellipse
+           ry="15.768902"
+           rx="25.591057"
+           cy="130.62473"
+           cx="59.935188"
+           id="ellipse1105"
+           style="opacity:1;fill:#ffff00;fill-opacity:0;stroke:none;stroke-width:0.26458332" />
       </g>
     </g>
-    <ellipse
-       style="opacity:1;fill:#ffff00;fill-opacity:0;stroke:none;stroke-width:0.26458332"
-       id="path1702"
-       cx="59.935188"
-       cy="130.62473"
-       rx="25.591057"
-       ry="15.768902" />
   </g>
 </svg>
